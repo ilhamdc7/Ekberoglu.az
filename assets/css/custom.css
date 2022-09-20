@@ -4,7 +4,7 @@
 }
 
 .nav-item .dropdown_menu .nav-item a:hover {
-    background-color: #1e1e1e !important;
+    background-color: #101e28 !important;
 }
 
 .add-to-cart-btn {
@@ -50,7 +50,7 @@ i {
 }
 
 .product-nav {
-    box-shadow: 0px 0px 5px 10px #FAB702;
+    box-shadow: 0px 0px 5px 10px #a8815e;
 }
 
 @keyframes animeArrow {
@@ -80,9 +80,9 @@ i {
 /*}*/
 
 #nav-menu-left .nav-item:hover ul {
-    /*border-top: 1px solid #FAB702;*/
-    /*border-bottom: 1px solid #FAB702;*/
-    border-left: 2px solid #FAB702;
+    /*border-top: 1px solid #a8815e;*/
+    /*border-bottom: 1px solid #a8815e;*/
+    border-left: 2px solid #a8815e;
 }
 
 .dropdown_menu li {
@@ -264,7 +264,7 @@ i {
 
 .SC-menu-open:checked~.SC-menu-item:nth-child(4):hover {
     color: #109500;
-    border: 1px solid #fab702;
+    border: 1px solid #a8815e;
     background-color: #fff;
 }
 
@@ -299,7 +299,7 @@ i {
 }
 
 .SC-menu-open-button {
-    background-image: linear-gradient(90deg, #fab702, #fab702);
+    background-image: linear-gradient(90deg, #a8815e, #a8815e);
     background-position: 50% 50%;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
