@@ -1,4 +1,39 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:100, 100i, 200, 200i, 300, 300i, 400, 400i, 500, 500i, 600, 600i, 700, 700i, 800, 800i, 900, 900i);
+
+
+.new-address-container{
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+
+.new-address{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: green solid;
+}
+
+
+.new-location{
+    width: 190px;
+    height: 90px;
+    display: flex;
+    justify-content: flex-start !important;
+    align-items: center;
+    margin-left: 10px;
+}
+
+
+
 ::-webkit-scrollbar {
     width: 10px;
     height: 10px;

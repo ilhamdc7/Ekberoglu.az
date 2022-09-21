@@ -8,7 +8,7 @@ a.meanmenu-reveal {
     position: absolute;
     background: 0 0;
     padding: 0;
-    z-index: 999;
+    z-index: 999999999 !important;
 }
 
 .mean-container a.meanmenu-reveal {
